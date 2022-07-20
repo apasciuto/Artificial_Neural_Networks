@@ -1,17 +1,3 @@
----
-layout: post
-title:  "Artificial Neural Networks: Predicting Wine"
-cover: "/assets/media/wine/wine.png"
-permalink: /:categories/:year/:month/:day/Artificial-Neural-Networks
-excerpt_separator: <!--end-->
-categories: projects
-date: 2017-09-05
----
-
-Using Neural Networks to predict wine type & quality based on chemical properties.
-
-<!--end-->
-
 # Predicting Wine: Artificial Neural Networks with Keras
 
 **Using Artificial Neural Networks to predict wine type and quality based on its chemical properties.**
